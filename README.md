@@ -1,3 +1,7 @@
+## Academic Team Project
+
+This project was developed as part of a university assignment in collaboration with other team members.
+
 # Project33revised
 Εγιναν οι εξης αλλαγες
 - Δεν χρειαζεται πλεον excel αρχειο για να τρεξει το προγραμμα το δημιουργει μονο του
